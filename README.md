@@ -1,6 +1,4 @@
-# os-homework
-
-OS 中間課題 - 食事をする哲学者問題（Dining Philosophers Problem）
+# 食事をする哲学者問題（Dining Philosophers Problem） シミュレーション
 
 ## 概要
 
